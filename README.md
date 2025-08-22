@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">I am a data scientist with core knowledge of Machine Learning,GenAI Data Analysis, data visualization and a good command over mathematics both pure and applied.</h3>
 
@@ -17,11 +18,12 @@
 
 - 📫 How to reach me **harshitsingh05893312@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+Skills :
 <p align="left">
-</p>
+</p><img width="512" height="512" alt="machine-learning" src="https://github.com/user-attachments/assets/6bfb143a-3702-4d98-b3c5-fb91909226bb" />
 
-<h3 align="left">Languages and Tools:</h3>
+
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit7271&show_icons=true&locale=en&layout=compact" alt="harshit7271" /></p>
@@ -30,4 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7271&" alt="harshit7271" /></p>
 
+![original-ffcac8e074af7de5e6ac6db9873dff66](https://github.com/user-attachments/assets/02206d1f-cf3f-4a7a-a7a0-ecb5ac1a04d9)
 
