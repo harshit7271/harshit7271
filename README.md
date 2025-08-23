@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7271&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7271" /> </p>
 
-- 🔭 I’m currently working on [Data Modeling and performance evaluation](https://github.com/harshit7271/Data-Modeling-performance-evaluation-in-ML-Project-regression)
+- 🔭 I’m currently working on Machine Learning Algorithms with future aspiration of GenAI and DEEP LEARNING
 
 - 🌱 I’m currently learning **ML and AI**
 
