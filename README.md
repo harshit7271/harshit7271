@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">I am a data scientist with core knowledge of Machine Learning,GenAI Data Analysis, data visualization and a good command over mathematics both pure and applied.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7271&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7271" /> <bgcolor pink></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit7271" alt="harshit7271" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7271&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7271" /> </p>
 
 - 🔭 I’m currently working on [Data Modeling and performance evaluation](https://github.com/harshit7271/Data-Modeling-performance-evaluation-in-ML-Project-regression)
 
