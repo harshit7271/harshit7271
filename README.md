@@ -11,7 +11,8 @@
 
 - 🤝 I’m looking for help with **GenAI**
 
-- 💬 Ask me about **Data Analysis and Visualization**
+- 💬 Ask me about **Machine learning and Model Deployment**
+- **I also have experience of tools like Streamlit and FastAPI**
 
 - 📫 How to reach me **harshitsingh05893312@gmail.com**
 
