@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **GenAI**
 
 - 💬 Ask me about **Machine learning and Model Deployment**
-- **I also have experience of tools like Streamlit, FastAPI, PyDentic and DOCKER**
+- **I also have experience of tools like Streamlit, FastAPI, PyDantic and DOCKER**
 
 - 📫 How to reach me **harshitsingh05893312@gmail.com**
 
