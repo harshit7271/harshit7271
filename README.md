@@ -15,6 +15,9 @@
 - **I also have experience of tools like Streamlit, FastAPI, PyDantic and DOCKER**
 
 - 📫 How to reach me **harshitsingh05893312@gmail.com**
+- **MICROSOFT AZURE ML CERTIFICATIONS :**
+-  Microsoft Azure ML model deployement certification  - https://coursera.org/share/a2ad35f33e75c017d8d404d9adc21561
+-  Microsoft Azure ML for Data Scientists certification - https://coursera.org/share/be18382c224fb1ca9f2da60cc77d49a2
 
 <h3 align="left"> SKILL SET:</h3>
 <p align="left"><img width="512" height="512" alt="machine-learning" src="https://github.com/user-attachments/assets/f41edca1-cd98-4e79-8755-8fa3e549a894" />
@@ -30,6 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit7271&" alt="harshit7271" /></p>
 
-<h3 align="left"> CERTIFICATION : </h3>
-                     Microsoft Azure ML model deployement certification  - https://coursera.org/share/a2ad35f33e75c017d8d404d9adc21561
+
                     
