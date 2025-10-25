@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **GenAI**
 
-- 💬 Ask me about **Data Analysis and Visualization**
+- 💬 Ask me about **Deep Learning, Machine Learning and PyTorch**
 
 - 📫 How to reach me **harshitsingh05893312@gmail.com**
 - **MICROSOFT AZURE ML CERTIFICATIONS :**
