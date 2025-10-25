@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **GenAI**
 
-- 📝 I regularly write articles on [http://medium.com/@harshitsingh05893312](http://medium.com/@harshitsingh05893312)
-
 - 💬 Ask me about **Data Analysis and Visualization**
 
 - 📫 How to reach me **harshitsingh05893312@gmail.com**
