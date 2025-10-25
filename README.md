@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@harshitsin12380" target="blank"><img src="https://img.shields.io/twitter/follow/@harshitsin12380?logo=twitter&style=for-the-badge" alt="@harshitsin12380" /></a> </p>
 
-- 🔭 I’m currently working on [Data Modeling and performance evaluation](https://github.com/harshit7271/Data-Modeling-performance-evaluation-in-ML-Project-regression)
+- 🔭 I’m currently working on [Deep Learning with PyTorch](https://github.com/harshit7271/Deep_learning_with_PyTorch)
 
 - 🌱 I’m currently learning **ML and AI**
 
