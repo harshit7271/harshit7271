@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Singh</h1>
+<h1 align="center">I'm Harshit Singh</h1>
 <h3 align="center">I am a Machine Learning and Deep Learning Engineer with aspiration to become an AI engineer. Also a Python fullstack developer with expertise in FastAPI and Streamlit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7271&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7271" /> </p>
