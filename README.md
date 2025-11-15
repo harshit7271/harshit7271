@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML and AI**
 
-- 👯 I’m looking to collaborate on **Machine Learning and GenAI**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and GenAI**
 
 - 🤝 I’m looking for help with **GenAI**
 
