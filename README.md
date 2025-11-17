@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@harshitsin12380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshitsin12380" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-singh-40b390286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-singh-40b390286/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-singh-40b390286/"(https://www.linkedin.com/in/harshit-singh-40b390286/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-singh-40b390286/" height="30" width="40" /></a>
 <a href="https://medium.com/@harshitsingh05893312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshitsingh05893312" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/harshit7271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshit7271/" height="30" width="40" /></a>
 </p>
