@@ -20,9 +20,11 @@
 -  Microsoft Azure ML model deployement certification  - https://coursera.org/share/a2ad35f33e75c017d8d404d9adc21561
 -  Microsoft Azure ML for Data Scientists certification - https://coursera.org/share/be18382c224fb1ca9f2da60cc77d49a2
 
-### Blogs posts
+### Blogs Posts :
 <!-- BLOG-POST-LIST:START --> 
-[Mathmatical Approach toward Deep Learning](https://medium.com/@harshitsingh05893312/mathematical-approach-toward-deep-learning-11e46c30d1d9)
+- [Mathmatical Approach toward Deep Learning](https://medium.com/@harshitsingh05893312/mathematical-approach-toward-deep-learning-11e46c30d1d9)
+
+- [Hidden Powerhouse of PyTorch - C++](https://medium.com/@harshitsingh05893312/the-hidden-powerhouse-of-pytorch-c-f0bc06677c1d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
