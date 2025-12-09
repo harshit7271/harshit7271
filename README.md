@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Deep Learning with PyTorch](https://github.com/harshit7271/Deep_learning_with_PyTorch)
 
-- 🌱 I’m currently learning **Agentic and Gen AI**
+- 🌱 I’m currently learning **Agentic AI and Generative AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and GenAI**
 
