@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@harshitsin12380" target="blank"><img src="https://img.shields.io/twitter/follow/@harshitsin12380?logo=twitter&style=for-the-badge" alt="@harshitsin12380" /></a> </p>
 
-- 🔭 I’m currently working on [Deep Learning with PyTorch](https://github.com/harshit7271/Deep_learning_with_PyTorch)
+- 🔭 I’m currently working on [Learning React from scratch](https://github.com/harshit7271/React)
 
 - 🌱 I’m currently learning **Agentic AI and Generative AI**
 
