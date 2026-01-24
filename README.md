@@ -1,6 +1,7 @@
 <h1 align="center">I'm Harshit Singh</h1>
 <h3 align="center">I am a Machine Learning and Deep Learning Engineer with aspiration to become an AI engineer. Also a Python fullstack developer with expertise in FastAPI and Streamlit</h3>
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7271&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7271" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@harshitsin12380" target="blank"><img src="https://img.shields.io/twitter/follow/@harshitsin12380?logo=twitter&style=for-the-badge" alt="@harshitsin12380" /></a> </p>
@@ -20,6 +21,7 @@
 -  Microsoft Azure ML model deployement certification  - https://coursera.org/share/a2ad35f33e75c017d8d404d9adc21561
 -  Microsoft Azure ML for Data Scientists certification - https://coursera.org/share/be18382c224fb1ca9f2da60cc77d49a2
 
+---
 ### Blogs Posts :
 <!-- BLOG-POST-LIST:START --> 
 - [Mathmatical Approach toward Deep Learning](https://medium.com/@harshitsingh05893312/mathematical-approach-toward-deep-learning-11e46c30d1d9)
@@ -27,6 +29,7 @@
 - [Hidden Powerhouse of PyTorch - C++](https://medium.com/@harshitsingh05893312/the-hidden-powerhouse-of-pytorch-c-f0bc06677c1d)
 <!-- BLOG-POST-LIST:END -->
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@harshitsin12380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@harshitsin12380" height="30" width="40" /></a>
@@ -35,6 +38,7 @@
 <a href="https://leetcode.com/u/harshit7271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harshit7271/" height="30" width="40" /></a>
 </p>
 
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img width="512" height="512" alt="machine-learning" src="https://github.com/user-attachments/assets/f41edca1-cd98-4e79-8755-8fa3e549a894" />
 
