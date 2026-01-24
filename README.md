@@ -1,5 +1,5 @@
 <h1 align="center">I'm Harshit Singh</h1>
-<h3 align="center">I am a Machine Learning and Deep Learning Engineer with aspiration to become an AI engineer. Also a Python fullstack developer with expertise in FastAPI and Streamlit</h3>
+<h3 align="center">I am a Fullstack AI/ML engineer. With a good command over MLOOPs, CNNs, LLMs and backend engineering in Python. nd trying to learn Nextjs.</h3>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7271&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7271" /> </p>
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Learning React from scratch](https://github.com/harshit7271/React)
 
-- 🌱 I’m currently learning **Agentic AI and Generative AI**
+- 🌱 I’m currently learning **Audio CNNs and LLMs**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and GenAI**
 
-- 🤝 I’m looking for help with **GenAI**
+- 🤝 I’m looking for help with **Nextjs**
 
 - 💬 Ask me about **Deep Learning, Machine Learning and PyTorch**
 
