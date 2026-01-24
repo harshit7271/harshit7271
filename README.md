@@ -59,14 +59,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
     
-###
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshit7271&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harshit7271&theme=dark&hide_border=false)
 
 
-###
+---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
