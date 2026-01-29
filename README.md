@@ -1,5 +1,5 @@
 <h1 align="center">I'm Harshit Singh</h1>
-<h3 align="center">I am a Fullstack AI/ML engineer. With a good command over MLOOPs, CNNs, LLMs and backend engineering in Python. nd trying to learn Nextjs.</h3>
+<h3 align="center">I am a Fullstack AI/ML engineer. With a good command over MLOPS, CNNs, LLMs and backend engineering in Python. nd trying to learn Nextjs.</h3>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit7271&label=Profile%20views&color=0e75b6&style=flat" alt="harshit7271" /> </p>
