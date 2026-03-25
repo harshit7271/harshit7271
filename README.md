@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Learning React from scratch](https://github.com/harshit7271/React)
 
-- 🌱 I’m currently learning **Audio CNNs and LLMs**
+- 🌱 I’m currently learning **Claude Coding** and **MLOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and GenAI**
 
